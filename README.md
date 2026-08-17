@@ -33,13 +33,13 @@ This repository uses an 80:20 stratified split:
 
 Add your GitHub repository link here after uploading this project:
 
-`https://github.com/<your-username>/<your-repository-name>`
+`https://github.com/Tanush-N/tanush-bits-ml-assignment-2`
 
 ## Live Streamlit App Link
 
 Add your Streamlit Community Cloud link here after deployment:
 
-`https://<your-app-name>.streamlit.app`
+`https://vgcqgkc7req59t9au8xump.streamlit.app/`
 
 ## d. Models used
 
